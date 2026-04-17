@@ -1,6 +1,4 @@
 """create doctor crud operations"""
-from exceptions.doctor_not_found_exception import DoctorNotFoundException
-from models.doctor import Doctor
 import sys
 import os
 
@@ -9,6 +7,9 @@ project_root = os.path.abspath(os.path.join(os.path.dirname(__file__),'..','..')
 sys.path.append(project_root)
 
 from conf.logger_conf import setup_logger
+from src.exceptions.doctor_not_found_exception import DoctorNotFoundException
+from src.models.doctor import Doctor
+
 logger = setup_logger()
 class DoctorStore:
     def __init__(self):

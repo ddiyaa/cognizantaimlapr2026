@@ -1,1 +1,7 @@
 2026-04-16 09:55:24,559 - healthcare_logger - INFO - app run
+2026-04-17 11:15:19,054 - healthcare_logger - INFO - Adharcard No: 1234-5678-9012
+2026-04-17 11:15:19,055 - healthcare_logger - INFO - Mobile No: 9876543210
+2026-04-17 11:16:12,194 - healthcare_logger - INFO - Adharcard No: 1234-5678-9012
+2026-04-17 11:16:12,198 - healthcare_logger - INFO - Mobile No: 9876543210
+2026-04-17 11:19:55,780 - healthcare_logger - INFO - Adharcard No: 1234-5678-9012
+2026-04-17 11:19:55,781 - healthcare_logger - INFO - Mobile No: 9876543210
